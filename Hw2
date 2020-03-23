@@ -60,3 +60,80 @@
 17:02:13,107 INFO  [org.jboss.as.server] (management-handler-thread - 1) WFLYSRV0016: Replaced deployment "JavaEEWebApp.war" with deployment "JavaEEWebApp.war"
 17:02:13,118 INFO  [org.jboss.as.repository] (management-handler-thread - 1) WFLYDR0002: Content removed from location C:\Users\└эрёЄрёш \Downloads\wildfly-19.0.0.Final\wildfly-19.0.0.Final\standalone\data\content\83\ceb4317dc7d71955588d6211c71978bcff93af\content
 17:03:32,040 INFO  [ru.geekbrains.FirstServlet] (default task-1) New request
+___________________________________________________________________________________________
+mapping-1
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+   <servlet-name>FirstServlet</servlet-name>
+    <servlet-class>ru.geekbrains.FirstServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>FirstServlet</servlet-name>
+    <url-pattern>/firstservlet/*</url-pattern>
+  </servlet-mapping>
+</web-app>
+______________________________________________________________________________________________
+mapping-2
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+   <servlet-name>FirstServlet</servlet-name>
+    <servlet-class>ru.geekbrains.FirstServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>FirstServlet</servlet-name>
+    <url-pattern>*.hhh</url-pattern>
+  </servlet-mapping>
+</web-app>
+_________________________________________________________________________________
+mapping-3
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+   <servlet-name>FirstServlet</servlet-name>
+    <servlet-class>ru.geekbrains.FirstServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>FirstServlet</servlet-name>
+    <url-pattern>/firstservlet</url-pattern>
+  </servlet-mapping>
+</web-app>
+______________________________________________________________________________________-
+mapping-4
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+   <servlet-name>FirstServlet</servlet-name>
+    <servlet-class>ru.geekbrains.FirstServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>FirstServlet</servlet-name>
+    <url-pattern>/</url-pattern>
+  </servlet-mapping>
+</web-app>

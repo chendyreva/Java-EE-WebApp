@@ -13,8 +13,19 @@
   
   <servlet-mapping>
     <servlet-name>FirstServlet</servlet-name>
-    <url-pattern>/firstservlet</url-pattern>
+    <url-pattern>/firstservlet/*</url-pattern>
   </servlet-mapping>
+
+    <error-page>
+        <error-code>404</error-code>
+        <location>/index.jsp</location>
+    </error-page>
+
+    <error-page>
+        <error-code>403</error-code>
+        <location>/index.jsp</location>
+    </error-page>
+
 </web-app>
 
 
