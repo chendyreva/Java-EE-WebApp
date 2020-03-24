@@ -5,5 +5,78 @@
          version="4.0">
 
   <display-name>Archetype Created Web Application</display-name>
+<<<<<<< Updated upstream
+=======
+
+<!--  <servlet>-->
+<!--&lt;!&ndash;   <servlet-name>FirstServlet</servlet-name>&ndash;&gt;-->
+<!--&lt;!&ndash;    <servlet-class>ru.geekbrains.FirstServlet</servlet-class>&ndash;&gt;-->
+<!--  </servlet>-->
+<!--  -->
+<!--  <servlet-mapping>-->
+<!--&lt;!&ndash;    <servlet-name>FirstServlet</servlet-name>&ndash;&gt;-->
+<!--&lt;!&ndash;    <url-pattern>/firstservlet/*</url-pattern>&ndash;&gt;-->
+<!--  </servlet-mapping>-->
+
+      <servlet>
+       <servlet-name>MainPageServlet</servlet-name>
+        <servlet-class>com.shop.MainPageServlet</servlet-class>
+      </servlet>
+      <servlet-mapping>
+        <servlet-name>MainPageServlet</servlet-name>
+        <url-pattern>/main</url-pattern>
+      </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CartServlet</servlet-name>
+        <servlet-class>com.shop.CartServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CartServlet</servlet-name>
+        <url-pattern>/cart</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>CatalogServlet</servlet-name>
+        <servlet-class>com.shop.CatalogServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CatalogServlet</servlet-name>
+        <url-pattern>/catalog</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>OrderServlet</servlet-name>
+        <servlet-class>com.shop.OrderServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OrderServlet</servlet-name>
+        <url-pattern>/order</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>ProductServlet</servlet-name>
+        <servlet-class>com.shop.ProductServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ProductServlet</servlet-name>
+        <url-pattern>/product</url-pattern>
+    </servlet-mapping>
+
+
+    <error-page>
+        <error-code>404</error-code>
+        <location>/index.jsp</location>
+    </error-page>
+
+    <error-page>
+        <error-code>403</error-code>
+        <location>/index.jsp</location>
+    </error-page>
+
+>>>>>>> Stashed changes
 </web-app>
 
