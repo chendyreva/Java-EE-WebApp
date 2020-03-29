@@ -1,0 +1,10 @@
+.h2 {
+    text-decoration-color: green;
+}
+
+.table{
+    background: orange;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
