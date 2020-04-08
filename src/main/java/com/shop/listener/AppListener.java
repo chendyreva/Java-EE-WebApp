@@ -14,6 +14,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+
 @WebListener
 public class AppListener implements ServletContextListener {
 
@@ -44,3 +45,4 @@ public class AppListener implements ServletContextListener {
         }
     }
 }
+

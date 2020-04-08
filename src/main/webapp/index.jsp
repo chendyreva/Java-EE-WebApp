@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream
-<html>
-<body>
-<h2>Hello World!</h2>
-=======
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html" pageEncoding="UTF-8"%>
 <!doctype html>
@@ -73,6 +68,5 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
->>>>>>> Stashed changes
 </body>
 </html>

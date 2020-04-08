@@ -3,7 +3,7 @@ package com.shop.filter;
 import javax.servlet.*;
 import java.io.IOException;
 
-//@WebFilter(filterName = "HeaderFooterFilter", urlPatterns = "/*")
+
 public class HeaderFooterFilter implements Filter {
 
     private FilterConfig filterConfig;

@@ -3,10 +3,12 @@
 <head>
     <title>Cart</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <%@include file="WEB-INF/menu.jsp"%>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <jsp:include page="WEB-INF/head.jsp">
+        <jsp:param name="pageHeader" value="Product"/>
+    </jsp:include>
 </head>
 <body>
+<jsp:include page="WEB-INF/header.jsp"/>
 <h2>Welcome to cart of our shop!</h2>
 
 

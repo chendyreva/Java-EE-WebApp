@@ -35,6 +35,35 @@
     </div>
 </div>
 
+<%--<% ArrayList<Product> prodList = (ArrayList) request.getAttribute("ProdList"); %>--%>
+<%--<strong><a href="<%=request.getContextPath()%>/product?type=getDetails">Show Products</a></strong>--%>
+<%--<br></br>--%>
+
+<%--<table cellspacing="2" cellpadding="2">--%>
+
+<%--    <tr><th>Product_ID</th><th>Name</th><th>Description</th><th>Price</th></tr>--%>
+<%--    <%--%>
+
+
+<%--        if(request.getAttribute("ProdList") != null)--%>
+<%--        {--%>
+<%--            Iterator<Product> iterator = prodList.iterator();--%>
+
+<%--            while(iterator.hasNext())--%>
+<%--            {--%>
+<%--                Product product = iterator.next();--%>
+<%--    %>--%>
+<%--    <tr><td><%=product.getProductId()%></td>--%>
+<%--        <td><%=product.getName()%></td>--%>
+<%--        <td><%=product.getDescription()%></td>--%>
+<%--        <td><%=product.getPrice()%></td>--%>
+<%--    </tr>--%>
+<%--    <%--%>
+<%--            }--%>
+<%--        }--%>
+<%--    %>--%>
+<%--</table>--%>
+
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
