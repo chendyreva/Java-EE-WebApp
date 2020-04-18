@@ -1,0 +1,34 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:ui="http://java.sun.com/jsf/facelets">
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">MyShop</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div>
+       <ul class="navbar-nav mr-auto ">
+           <li class="nav-item #{(param.page == 'main') ? 'active' : ''}">
+               <h:link valuet="Main" outcome="main" styleClass="nav-link">Main</h:link>
+           </li>
+           <li class="nav-item #{(param.page == 'catalog') ? 'active' : ''}">
+               <h:link valuet="Catalog" outcome="catalog" styleClass="nav-link">Catalog</h:link>
+           </li>
+           <li class="nav-item #{(param.page == 'product') ? 'active' : ''}">
+               <h:link valuet="Product" outcome="product" styleClass="nav-link">Product</h:link>
+           </li>
+           <li class="nav-item #{(param.page == 'cart') ? 'active' : ''}">
+               <h:link valuet="Cart" outcome="cart" styleClass="nav-link">Cart</h:link>
+           </li>
+           <li class="nav-item #{(param.page == 'order') ? 'active' : ''}">
+               <h:link valuet="Order" outcome="order" styleClass="nav-link">Order</h:link>
+           </li>
+       </ul>
+    </div>
+</nav>
+
+</html>
