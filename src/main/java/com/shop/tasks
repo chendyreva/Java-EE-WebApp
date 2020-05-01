@@ -1,0 +1,39 @@
+<%--<%@ page import="java.time.LocalDateTime" %>--%>
+<%--<%@page contentType="text/html" pageEncoding="UTF-8"%>--%>
+<%--<html>--%>
+<%--<head>--%>
+<%--    <title>Product</title>--%>
+<%--    <link rel="stylesheet" type="text/css" href="css/style.css">--%>
+<%--</head>--%>
+<%--<body>--%>
+<%--<h2>You are in product page!</h2>--%>
+
+
+<%--<p><%= LocalDateTime.now().toString()%></p>--%>
+
+<%--<table border="1">--%>
+<%--    <tr>--%>
+<%--        <th>Id</th>--%>
+<%--        <th>Name</th>--%>
+<%--&lt;%&ndash;        <th>Description</th>&ndash;%&gt;--%>
+<%--&lt;%&ndash;        <th>Price</th>&ndash;%&gt;--%>
+<%--    </tr>--%>
+<%--    <c:forEach items="${products}" var="prod">--%>
+<%--        <tr>--%>
+<%--            <td>${prod.id}</td>--%>
+<%--            <td>${prod.name}</td>--%>
+<%--&lt;%&ndash;            <td>${prod.description}</td>&ndash;%&gt;--%>
+<%--&lt;%&ndash;            <td>${prod.price}</td>&ndash;%&gt;--%>
+<%--        </tr>--%>
+<%--    </c:forEach>--%>
+<%--</table>--%>
+
+
+<%--<p>--%>
+<%--    <a href="main.jsp">Main</a>--%>
+<%--    <a href="catalog.jsp">Catalog</a>--%>
+<%--    <a href="cart.jsp">Cart</a>--%>
+<%--    <a href="order.jsp">Order</a>--%>
+<%--</p>--%>
+<%--</body>--%>
+<%--</html>--%>
