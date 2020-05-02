@@ -1,0 +1,9 @@
+ru/geekbrains/service/FindAll.class
+ru/geekbrains/service/ObjectFactory.class
+ru/geekbrains/service/ProductServiceWs.class
+ru/geekbrains/service/ProductRepr.class
+ru/geekbrains/service/FindById.class
+ru/geekbrains/service/ProductService.class
+ru/geekbrains/service/package-info.class
+ru/geekbrains/service/FindAllResponse.class
+ru/geekbrains/service/FindByIdResponse.class
