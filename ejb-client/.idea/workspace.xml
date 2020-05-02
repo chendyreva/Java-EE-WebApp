@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a38005cd-a73b-4f35-9f20-3db2fba24fa9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1alTsX9OpPcGxDsUN4Y0kL4mMoq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.shop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Анастасия\IdeaProjects\ejb-client" />
+      <recent name="C:\Users\Анастасия\IdeaProjects\ejb-client\.idea" />
+      <recent name="C:\Users\Анастасия\IdeaProjects\ejb-client\ejb-client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="shop" />
+      <recent name="com.shop" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Анастасия\IdeaProjects\ejb-client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ejb-client (1)" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ejb-client (1)" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejb-client[clean,install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a38005cd-a73b-4f35-9f20-3db2fba24fa9" name="Default Changelist" comment="" />
+      <created>1587309387106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587309387106</updated>
+      <workItem from="1587309390065" duration="6847000" />
+      <workItem from="1588169667150" duration="2192000" />
+      <workItem from="1588172714432" duration="2890000" />
+      <workItem from="1588308012278" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="0" key="#Project_Structure" timestamp="1588251550546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="466" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1588251550546" />
+    <state x="105" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588251093504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="105" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588251093504" />
+    <state x="0" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1587310058483">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587310058483" />
+    <state x="529" y="269" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588251313518">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="529" y="269" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1588251313518" />
+    <state x="411" y="200" width="459" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587310434168">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="200" width="459" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1587310434168" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1588250892387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588250892387" />
+    <state width="1237" height="265" key="GridCell.Tab.0.bottom" timestamp="1587314683127">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587314683127" />
+    <state width="1237" height="265" key="GridCell.Tab.0.center" timestamp="1587314683127">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587314683127" />
+    <state width="1237" height="265" key="GridCell.Tab.0.left" timestamp="1587314683127">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587314683127" />
+    <state width="1237" height="265" key="GridCell.Tab.0.right" timestamp="1587314683127">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587314683127" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587894353500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587894353500" />
+    <state x="113" y="38" key="new project wizard" timestamp="1587309452910">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="113" y="38" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587309452910" />
+  </component>
+</project>
